@@ -8,6 +8,6 @@ line7
 
 topic-A
 
-topicB
+topic-B
 
 topic-C
